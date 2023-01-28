@@ -1,0 +1,286 @@
+C:\Users\Ali\source\repos\HMS-1.0\HMS-1.0\bin\Debug\HMS-1.0.exe.config
+C:\Users\Ali\source\repos\HMS-1.0\HMS-1.0\bin\Debug\HMS-1.0.exe
+C:\Users\Ali\source\repos\HMS-1.0\HMS-1.0\bin\Debug\HMS-1.0.pdb
+C:\Users\Ali\source\repos\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.Form1.resources
+C:\Users\Ali\source\repos\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.Properties.Resources.resources
+C:\Users\Ali\source\repos\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.exe
+C:\Users\Ali\source\repos\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.pdb
+C:\Users\Ali\source\repos\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.dash.resources
+C:\Users\Ali\source\repos\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.admin.resources
+C:\Users\Ali\source\repos\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.student.resources
+C:\Users\Ali\source\repos\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.studentEdit.resources
+C:\Users\Ali\source\repos\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.studentAdd.resources
+C:\Users\Ali\source\repos\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.editAdmin.resources
+C:\Users\Ali\source\repos\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.staff.resources
+C:\Users\Ali\source\repos\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.addStaff.resources
+C:\Users\Ali\source\repos\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.editStaff.resources
+C:\Users\Lenovo\Downloads\New folder (2)\HMS-1.0\HMS-1.0\bin\Debug\HMS-1.0.exe.config
+C:\Users\Lenovo\Downloads\New folder (2)\HMS-1.0\HMS-1.0\bin\Debug\HMS-1.0.exe
+C:\Users\Lenovo\Downloads\New folder (2)\HMS-1.0\HMS-1.0\bin\Debug\HMS-1.0.pdb
+C:\Users\Lenovo\Downloads\New folder (2)\HMS-1.0\HMS-1.0\bin\Debug\Oracle.VsDevTools.EntityFramework.16.0.dll
+C:\Users\Lenovo\Downloads\New folder (2)\HMS-1.0\HMS-1.0\bin\Debug\Oracle.Web.dll
+C:\Users\Lenovo\Downloads\New folder (2)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\New folder (2)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.addStaff.resources
+C:\Users\Lenovo\Downloads\New folder (2)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.admin.resources
+C:\Users\Lenovo\Downloads\New folder (2)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.dash.resources
+C:\Users\Lenovo\Downloads\New folder (2)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.editAdmin.resources
+C:\Users\Lenovo\Downloads\New folder (2)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.editStaff.resources
+C:\Users\Lenovo\Downloads\New folder (2)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.Form1.resources
+C:\Users\Lenovo\Downloads\New folder (2)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\New folder (2)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.staff.resources
+C:\Users\Lenovo\Downloads\New folder (2)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.student.resources
+C:\Users\Lenovo\Downloads\New folder (2)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.studentAdd.resources
+C:\Users\Lenovo\Downloads\New folder (2)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.studentEdit.resources
+C:\Users\Lenovo\Downloads\New folder (2)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\New folder (2)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\New folder (2)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\New folder (2)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.exe
+C:\Users\Lenovo\Downloads\New folder (2)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.pdb
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\bin\Debug\HMS-1.0.exe.config
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\bin\Debug\HMS-1.0.exe
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\bin\Debug\HMS-1.0.pdb
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\bin\Debug\Oracle.VsDevTools.EntityFramework.16.0.dll
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\bin\Debug\Oracle.Web.dll
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.addStaff.resources
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.admin.resources
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.dash.resources
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.editAdmin.resources
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.editStaff.resources
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.Form1.resources
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.Properties.Resources.resources
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.staff.resources
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.student.resources
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.studentAdd.resources
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.studentEdit.resources
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.CopyComplete
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.exe
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.pdb
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.meals.resources
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.visitor.resources
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.visitoredit.resources
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.gym.resources
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.gymedit.resources
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.addStaff.resources
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.admin.resources
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.dash.resources
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.editAdmin.resources
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.editStaff.resources
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.Form1.resources
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.gym.resources
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.gymedit.resources
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.meals.resources
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.staff.resources
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.student.resources
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.studentAdd.resources
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.studentEdit.resources
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.visitor.resources
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.visitoredit.resources
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.exe
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.pdb
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\bin\Debug\HMS-1.0.exe.config
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\bin\Debug\HMS-1.0.exe
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\bin\Debug\HMS-1.0.pdb
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\bin\Debug\Oracle.VsDevTools.EntityFramework.16.0.dll
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\bin\Debug\Oracle.Web.dll
+C:\Users\Lenovo\Downloads\New folder (4)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.CopyComplete
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.shiftroom.resources
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\bin\Debug\HMS-1.0.exe.config
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\bin\Debug\HMS-1.0.exe
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\bin\Debug\HMS-1.0.pdb
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\bin\Debug\Oracle.VsDevTools.EntityFramework.16.0.dll
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\bin\Debug\Oracle.Web.dll
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.addStaff.resources
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.admin.resources
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.dash.resources
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.editAdmin.resources
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.editStaff.resources
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.Form1.resources
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.gym.resources
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.gymedit.resources
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.meals.resources
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.shiftroom.resources
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.staff.resources
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.student.resources
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.studentAdd.resources
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.studentEdit.resources
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.visitor.resources
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.visitoredit.resources
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.exe
+C:\Users\Lenovo\Downloads\New folder (5)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.pdb
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.aboutus.resources
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\bin\Debug\HMS-1.0.exe.config
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\bin\Debug\HMS-1.0.exe
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\bin\Debug\HMS-1.0.pdb
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\bin\Debug\Oracle.VsDevTools.EntityFramework.16.0.dll
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\bin\Debug\Oracle.Web.dll
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS-1.0.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.aboutus.resources
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.addStaff.resources
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.admin.resources
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.dash.resources
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.editAdmin.resources
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.editStaff.resources
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.expenses.resources
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.Form1.resources
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.gym.resources
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.gymedit.resources
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.meals.resources
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.shiftroom.resources
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.staff.resources
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.student.resources
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.studentAdd.resources
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.studentEdit.resources
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.visitor.resources
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.visitoredit.resources
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS-1.0.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS-1.0.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS-1.0.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS-1.0.exe
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS-1.0.pdb
+C:\Users\Lenovo\Downloads\New folder (6)\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.notice.resources
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\bin\Debug\HMS-1.0.exe.config
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\bin\Debug\HMS-1.0.exe
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\bin\Debug\HMS-1.0.pdb
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\bin\Debug\Oracle.VsDevTools.EntityFramework.16.0.dll
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\bin\Debug\Oracle.Web.dll
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS-1.0.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.aboutus.resources
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.addStaff.resources
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.admin.resources
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.dash.resources
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.editAdmin.resources
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.editStaff.resources
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.expenses.resources
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.Form1.resources
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.gym.resources
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.gymedit.resources
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.meals.resources
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.notice.resources
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.Properties.Resources.resources
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.shiftroom.resources
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.staff.resources
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.student.resources
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.studentAdd.resources
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.studentEdit.resources
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.visitor.resources
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS_1._0.visitoredit.resources
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS-1.0.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS-1.0.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS-1.0.csproj.CopyComplete
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS-1.0.exe
+C:\Users\Ali\Desktop\20F-0206,0148,0153,0179,0310\HMS-1.0\obj\Debug\HMS-1.0.pdb
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\bin\Debug\HMS-1.0.exe.config
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\bin\Debug\HMS-1.0.exe
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\bin\Debug\HMS-1.0.pdb
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\bin\Debug\Oracle.VsDevTools.EntityFramework.16.0.dll
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\bin\Debug\Oracle.Web.dll
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.aboutus.resources
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.addStaff.resources
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.admin.resources
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.dash.resources
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.editAdmin.resources
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.editStaff.resources
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.expenses.resources
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.Form1.resources
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.gym.resources
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.gymedit.resources
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.meals.resources
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.notice.resources
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.shiftroom.resources
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.staff.resources
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.student.resources
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.studentAdd.resources
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.studentEdit.resources
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.visitor.resources
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.visitoredit.resources
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.exe
+C:\Users\Lenovo\Downloads\New folder (7)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.pdb
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.attendance.resources
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.expenses.resources
+C:\Users\Ali\Desktop\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.notice.resources
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\bin\Debug\HMS-1.0.exe.config
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\bin\Debug\HMS-1.0.exe
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\bin\Debug\HMS-1.0.pdb
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\bin\Debug\Oracle.VsDevTools.EntityFramework.16.0.dll
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\bin\Debug\Oracle.Web.dll
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.aboutus.resources
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.addStaff.resources
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.admin.resources
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.attendance.resources
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.dash.resources
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.editAdmin.resources
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.editStaff.resources
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.expenses.resources
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.Form1.resources
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.gym.resources
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.gymedit.resources
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.meals.resources
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.notice.resources
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.shiftroom.resources
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.staff.resources
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.student.resources
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.studentAdd.resources
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.studentEdit.resources
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.visitor.resources
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS_1._0.visitoredit.resources
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.exe
+C:\Users\Lenovo\Downloads\New folder (8)\HMS-1.0\HMS-1.0\obj\Debug\HMS-1.0.pdb
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\bin\Debug\HMS-1.0.exe.config
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\bin\Debug\HMS-1.0.exe
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\bin\Debug\HMS-1.0.pdb
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\bin\Debug\Oracle.VsDevTools.EntityFramework.16.0.dll
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS-1.0.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS_1._0.aboutus.resources
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS_1._0.addStaff.resources
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS_1._0.admin.resources
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS_1._0.attendance.resources
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS_1._0.dash.resources
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS_1._0.editAdmin.resources
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS_1._0.editStaff.resources
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS_1._0.expenses.resources
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS_1._0.Form1.resources
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS_1._0.gym.resources
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS_1._0.gymedit.resources
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS_1._0.meals.resources
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS_1._0.notice.resources
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS_1._0.Properties.Resources.resources
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS_1._0.shiftroom.resources
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS_1._0.staff.resources
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS_1._0.student.resources
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS_1._0.studentAdd.resources
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS_1._0.studentEdit.resources
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS_1._0.visitor.resources
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS_1._0.visitoredit.resources
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS-1.0.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS-1.0.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS-1.0.csproj.CopyComplete
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS-1.0.exe
+C:\Users\Ali\Desktop\20F-0179,20F-0148,20F-0153,20F-0310,20F-0206\HMS-1.0\obj\Debug\HMS-1.0.pdb

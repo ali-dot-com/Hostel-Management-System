@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7716E4E7-0E59-4B8F-AC5C-AE29010A2E2C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>HMS_1._0</RootNamespace>
+    <AssemblyName>HMS-1.0</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Oracle.VsDevTools.EntityFramework.16.0, Version=6.122.19.33, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86" />
+    <Reference Include="Oracle.Web, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=AMD64" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="aboutus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aboutus.Designer.cs">
+      <DependentUpon>aboutus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addStaff.Designer.cs">
+      <DependentUpon>addStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin.Designer.cs">
+      <DependentUpon>admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="attendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="attendance.Designer.cs">
+      <DependentUpon>attendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dash.Designer.cs">
+      <DependentUpon>dash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editAdmin.Designer.cs">
+      <DependentUpon>editAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editStaff.Designer.cs">
+      <DependentUpon>editStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="expenses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="expenses.Designer.cs">
+      <DependentUpon>expenses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gym.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gym.Designer.cs">
+      <DependentUpon>gym.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gymedit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gymedit.Designer.cs">
+      <DependentUpon>gymedit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="meals.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="meals.Designer.cs">
+      <DependentUpon>meals.cs</DependentUpon>
+    </Compile>
+    <Compile Include="notice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="notice.Designer.cs">
+      <DependentUpon>notice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="shiftroom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="shiftroom.Designer.cs">
+      <DependentUpon>shiftroom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staff.Designer.cs">
+      <DependentUpon>staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="student.Designer.cs">
+      <DependentUpon>student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="studentAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="studentAdd.Designer.cs">
+      <DependentUpon>studentAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="studentEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="studentEdit.Designer.cs">
+      <DependentUpon>studentEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="visitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="visitor.Designer.cs">
+      <DependentUpon>visitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="visitoredit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="visitoredit.Designer.cs">
+      <DependentUpon>visitoredit.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="aboutus.resx">
+      <DependentUpon>aboutus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addStaff.resx">
+      <DependentUpon>addStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin.resx">
+      <DependentUpon>admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="attendance.resx">
+      <DependentUpon>attendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dash.resx">
+      <DependentUpon>dash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editAdmin.resx">
+      <DependentUpon>editAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editStaff.resx">
+      <DependentUpon>editStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="expenses.resx">
+      <DependentUpon>expenses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gym.resx">
+      <DependentUpon>gym.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gymedit.resx">
+      <DependentUpon>gymedit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="meals.resx">
+      <DependentUpon>meals.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="notice.resx">
+      <DependentUpon>notice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="shiftroom.resx">
+      <DependentUpon>shiftroom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staff.resx">
+      <DependentUpon>staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="student.resx">
+      <DependentUpon>student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="studentAdd.resx">
+      <DependentUpon>studentAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="studentEdit.resx">
+      <DependentUpon>studentEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="visitor.resx">
+      <DependentUpon>visitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="visitoredit.resx">
+      <DependentUpon>visitoredit.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
